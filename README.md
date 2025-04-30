@@ -1,3 +1,6 @@
+Reg no:212224040110
+Name:Harshitha D
+
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
